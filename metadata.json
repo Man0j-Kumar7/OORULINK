@@ -1,0 +1,6 @@
+{
+  "name": "OoruLink — From Farm to Fair Market",
+  "description": "Premium agricultural marketplace connecting farmers, buyers, shared rural transport, farm equipment rental, and village opportunities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
